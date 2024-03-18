@@ -1,4 +1,4 @@
-# Hi there 👋 My name is Kumani Kidd!
+# Hi there 👋 my name is Kumani Kidd!
 
 ## About Me
 I'm Kumani, a Full-stack Developer. I'm passionate about all things tech, especially VR/XR, Blockchain and green technologies.
