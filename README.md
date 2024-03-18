@@ -4,7 +4,7 @@
 I'm Kumani, a Full-stack Developer. I'm passionate about all things tech, especially VR/XR, Blockchain and green technologies.
 
 
-## Technologies
+## Technology Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
